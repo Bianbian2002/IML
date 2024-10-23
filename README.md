@@ -1,2 +1,2 @@
 # IML
-Intermediate machine learning
+This repository contains resources of Intermediate machine learning
